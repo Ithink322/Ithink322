@@ -4,7 +4,6 @@
 
 Dedicated <b>front-end developer</b> with strong knowledge of web development. Write user-friendly web interfaces, constantly practicing and learning new technologies. Have problem solving skills and can troubleshoot problems effectively. I am communicative, express myself clearly and concisely. Appreciate constructive criticism and constantly strive for personal and professional development. Ready to contribute to the team and actively develop.
 
-<br>
 
 ## Stack 🔥
 
