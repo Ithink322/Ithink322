@@ -9,18 +9,18 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 ## Stack 🔥
 
 <span>
-	<img align="top" src="assets/html.svg"/>&nbsp;
+	<img align="top" src="/html.svg"/>&nbsp;
 	<b>HTML</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/scss.svg"/>&nbsp;
+	<img align="top" src="/scss.svg"/>&nbsp;
 	<b>SCSS</b>
 </span> 
 <br/>
 <br/>
 <span>
-	<img align="top" src="assets/vue.svg"/>&nbsp;
+	<img align="top" src="/vue.svg"/>&nbsp;
 	<b>Vue</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,18 +34,18 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 <br/>
 <br/>
 <span>
-	<img align="top" src="assets/typescript.svg"/>&nbsp;
+	<img align="top" src="/typescript.svg"/>&nbsp;
 	<b>TypeScript</b>
 </span> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/webpack.svg"/>&nbsp;
+	<img align="top" src="/webpack.svg"/>&nbsp;
 	<b>Webpack</b>
 </span> 
 <br/>
 <br/>
 <span>
-	<img align="top" src="assets/nodejs.svg"/>&nbsp;
+	<img align="top" src="/nodejs.svg"/>&nbsp;
 	<b>Node.js</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,17 +54,17 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/mongodb.svg"/>&nbsp;
+	<img align="top" src="/mongodb.svg"/>&nbsp;
 	<b>MongoDB</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/mongoose.svg"/>&nbsp;
+	<img align="top" src="/mongoose.svg"/>&nbsp;
 	<b>mongoose</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/jwt.svg"/>&nbsp;
+	<img align="top" src="/jwt.svg"/>&nbsp;
 	<b>jwt</b>
 </span>
 
