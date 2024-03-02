@@ -68,7 +68,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 
 
-## Contact 📞
+## Contacts 📞
 
 <span>
 	<img align="top" src="/telegram.svg"/>&nbsp;
