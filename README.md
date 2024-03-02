@@ -90,15 +90,10 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 
 <span>
 	<img align="top" src="assets/telegram.svg"/>&nbsp;
-	<a href="https://t.me/amirsheikhmagomedov"><b>Telegram</b></a>
+	<a href="https://t.me/VitaliyNelubov"><b>Telegram</b></a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/whatsapp.svg"/>&nbsp;
-	<a href="https://wa.me/905431398599"><b>WhatsApp</b></a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<img align="top" src="assets/linkedln.svg"/>&nbsp;
-	<a href="https://www.linkedin.com/in/amirsheikhmagomedov"><b>LinkedIn</b></a>
+	<img align="top" src="assets/hhru.svg"/>&nbsp;
+	<a href="https://kursk.hh.ru/resume/4953b85aff0c8d3c420039ed1f596c44313751"><b>LinkedIn</b></a>
 </span>
