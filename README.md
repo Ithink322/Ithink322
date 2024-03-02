@@ -14,7 +14,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="/css.png"/>&nbsp;
+	<img align="top" width="24px" heihgt="24px" src="/css.png"/>&nbsp;
 	<b>SCSS</b>
 </span> 
 <br/>
