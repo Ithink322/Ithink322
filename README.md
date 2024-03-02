@@ -25,15 +25,16 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/.svg"/>&nbsp;
+	<img align="top" src="assets/vuex.svg"/>&nbsp;
 	<b>Vuex</b>
 </span> 
-<br/>
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="assets/vuerouter.svg"/>&nbsp;
 	<b>Vue Router</b>
 </span>
+<br/>
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="assets/typescript.svg"/>&nbsp;
@@ -49,6 +50,21 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 <span>
 	<img align="top" src="assets/expressjs.svg"/>&nbsp;
 	<b>Express.js</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" src="assets/mongodb.svg"/>&nbsp;
+	<b>MongoDB</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" src="assets/mongoose.svg"/>&nbsp;
+	<b>mongoose</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" src="assets/jwt.svg"/>&nbsp;
+	<b>jwt</b>
 </span>
 
 
