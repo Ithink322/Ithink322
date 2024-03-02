@@ -72,7 +72,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 ## Contact 📞
 
 <span>
-	<img align="top" src="assets/telegram.svg"/>&nbsp;
+	<img align="top" src="/telegram.svg"/>&nbsp;
 	<a href="https://t.me/VitaliyNelubov"><b>Telegram</b></a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
