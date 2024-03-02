@@ -14,7 +14,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="/scss.svg"/>&nbsp;
+	<img align="top" src="/css.svg"/>&nbsp;
 	<b>SCSS</b>
 </span> 
 <br/>
@@ -59,7 +59,6 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="/mongoose.svg"/>&nbsp;
 	<b>mongoose</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
