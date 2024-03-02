@@ -50,7 +50,6 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/expressjs.svg"/>&nbsp;
 	<b>Express.js</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
