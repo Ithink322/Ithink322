@@ -20,7 +20,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 <br/>
 <br/>
 <span>
-	<img align="top" src="/vue.svg"/>&nbsp;
+	<img align="top" src="/vue.png"/>&nbsp;
 	<b>Vue</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,7 +54,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="/mongodb.svg"/>&nbsp;
+	<img align="top" src="/mongodb.png"/>&nbsp;
 	<b>MongoDB</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
