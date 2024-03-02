@@ -40,7 +40,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="assets/webpack.svg"/>&nbsp;
-	<b>TypeScript</b>
+	<b>Webpack</b>
 </span> 
 <br/>
 <br/>
