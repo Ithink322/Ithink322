@@ -71,9 +71,9 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 
 <span>
 	<img align="top" src="/telegram.svg"/>&nbsp;
-	<a href="https://t.me/VitaliyNelubov"><b>Telegram</b></a>
+	<a href="https://t.me/VitaliyNelubov" target="_blank"><b>Telegram</b></a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<a href="https://kursk.hh.ru/resume/4953b85aff0c8d3c420039ed1f596c44313751"><b>hh.ru</b></a>
+	<a href="https://kursk.hh.ru/resume/4953b85aff0c8d3c420039ed1f596c44313751" target="_blank"><b>hh.ru</b></a>
 </span>
