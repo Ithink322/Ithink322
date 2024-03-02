@@ -37,6 +37,11 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 	<img align="top" src="assets/typescript.svg"/>&nbsp;
 	<b>TypeScript</b>
 </span> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" src="assets/webpack.svg"/>&nbsp;
+	<b>TypeScript</b>
+</span> 
 <br/>
 <br/>
 <span>
@@ -73,6 +78,5 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/hhru.svg"/>&nbsp;
 	<a href="https://kursk.hh.ru/resume/4953b85aff0c8d3c420039ed1f596c44313751"><b>hh.ru</b></a>
 </span>
