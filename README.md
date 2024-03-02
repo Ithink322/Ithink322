@@ -6,7 +6,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 
 <br>
 
-## Tech Stack 🔥
+## Stack 🔥
 
 <span>
 	<img align="top" src="assets/html.svg"/>&nbsp;
@@ -35,7 +35,6 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 <br/>
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="assets/typescript.svg"/>&nbsp;
 	<b>TypeScript</b>
