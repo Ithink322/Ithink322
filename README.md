@@ -13,7 +13,12 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" width="32px" heihgt="32px" src="/css.svg"/>&nbsp;
+	<img align="top" width="32px" heihgt="32px" src="/sass.svg"/>&nbsp;
+	<b>SCSS</b>
+</span> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" width="32px" heihgt="32px" src="/tailwindcss.svg"/>&nbsp;
 	<b>SCSS</b>
 </span> 
 <br/>
