@@ -19,7 +19,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" width="32px" heihgt="32px" src="/tailwindcss.svg"/>&nbsp;
-	<b>SCSS</b>
+	<b>TailwindCSS</b>
 </span> 
 <br/>
 <br/>
