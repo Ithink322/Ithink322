@@ -48,7 +48,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" width="36px" heihgt="36px" src="/webpack.svg"/>&nbsp;
+	<img align="top" width="40px" heihgt="40px" src="/webpack.svg"/>&nbsp;
 	<b>Webpack</b>
 </span> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
