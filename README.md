@@ -35,6 +35,11 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 <span>
 	<b>Vue Router</b>
 </span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" width="32px" heihgt="32px" src="/nuxt.svg"/>&nbsp;
+	<b>Nuxt</b>
+</span>
 <br/>
 <br/>
 <span>
@@ -46,6 +51,11 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 	<img align="top" width="32px" heihgt="32px" src="/webpack.svg"/>&nbsp;
 	<b>Webpack</b>
 </span> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" width="32px" heihgt="32px" src="/vite.svg"/>&nbsp;
+	<b>Vite</b>
+</span>
 <br/>
 <br/>
 <span>
