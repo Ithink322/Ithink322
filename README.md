@@ -8,7 +8,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 ## Stack 🔥
 
 <span>
-	<img align="top" src="/html.svg"/>&nbsp;
+	<img align="top" width="32px" heihgt="32px" src="/html.svg"/>&nbsp;
 	<b>HTML</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,12 +43,12 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 <br/>
 <br/>
 <span>
-	<img align="top" src="/typescript.svg"/>&nbsp;
+	<img align="top" width="32px" heihgt="32px" src="/typescript.svg"/>&nbsp;
 	<b>TypeScript</b>
 </span> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" width="32px" heihgt="32px" src="/webpack.svg"/>&nbsp;
+	<img align="top" width="36px" heihgt="36px" src="/webpack.svg"/>&nbsp;
 	<b>Webpack</b>
 </span> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,7 +59,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 <br/>
 <br/>
 <span>
-	<img align="top" src="/nodejs.svg"/>&nbsp;
+	<img align="top" width="32px" heihgt="32px" src="/nodejs.svg"/>&nbsp;
 	<b>Node.js</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
