@@ -29,16 +29,17 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
+	<img align="top" width="32px" heihgt="32px" src="/nuxt.svg"/>&nbsp;
+	<b>Nuxt</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
 	<b>Vuex</b>
 </span> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<b>Vue Router</b>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<img align="top" width="32px" heihgt="32px" src="/nuxt.svg"/>&nbsp;
-	<b>Nuxt</b>
+	<img align="top" width="32px" heihgt="32px" src="/pinia.svg"/>&nbsp;
+	<b>Pinia</b>
 </span>
 <br/>
 <br/>
