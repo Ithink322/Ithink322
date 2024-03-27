@@ -29,7 +29,7 @@ Dedicated <b>front-end developer</b> with strong knowledge of web development. W
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" width="32px" heihgt="32px" src="/nuxt.svg"/>&nbsp;
+	<img align="top" width="40px" heihgt="40px" src="/nuxt.svg"/>&nbsp;
 	<b>Nuxt</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
