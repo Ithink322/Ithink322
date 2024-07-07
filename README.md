@@ -14,7 +14,7 @@ Front-End developer with <b>1.5 years</b> of experience. Writing <b>front-End</b
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" width="32px" heihgt="32px" src="/sass.svg"/>&nbsp;
-	<b>SCSS/SASS</b>
+	<b>SCSS/SASS/LESS</b>
 </span> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
