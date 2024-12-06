@@ -2,7 +2,7 @@
 
 ## About me 👨‍💻
 
-Front-End developer with <b>1.5 years</b> of experience. Writing <b>Front-End</b> on </b>Vue/Nuxt</b> with </b>Typescript</b>. Has back-end experience developing server using </b>NodeJS express MongoDB</b>. Hardworking and communication skills at a high level. Looking for a company in which I will improve and grow as a specialist. Fluent in English; learning English is my hobby. Looking forward to receiving your suggestions!
+Front-End developer with <b>1.5 years</b> of experience. Writing <b>Front-End</b> on </b>Vue/Nuxt</b> with </b>Typescript</b>. Has back-end experience developing server using </b>NodeJS express MongoDB</b>. Hardworking and communication skills at a high level. Looking for a company in which I will improve and grow as a specialist. Fluent in English; learning English is my hobby.
 
 
 
