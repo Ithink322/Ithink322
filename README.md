@@ -1,12 +1,13 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <br> I'm Vitaliy Nelubov
+# Здравствуйте <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <br> Я Нелюбов Виталий
 
-## About me 👨‍💻
+## Обо мне 👨‍💻
 
-Front-End developer with <b>1.5 years</b> of experience. Writing <b>Front-End</b> on </b>Vue/Nuxt</b> with </b>Typescript</b>. Has back-end experience developing server using </b>NodeJS express MongoDB</b>. Hardworking and communication skills at a high level. Looking for a company in which I will improve and grow as a specialist. Fluent in English; learning English is my hobby.
+Frontend разработчик с <b>2 годами</b> опыта в e-commerce. Пишу frontend на <b>Vue/Nuxt</b> с <b>Typescript</b>. Есть опыт разработки своего сервера бэкенд на NodeJS express MongoDB. Трудолюбивый, коммуникативные навыки на высоком уровне. Ищу компанию в которой буду совершенствоваться и расти, как специалист. Я свободно владею Английским языком. Изучение английского - моё хобби.
 
 
 
-## Stack 🔥
+
+## Стек 🔥
 
 <span>
 	<img align="top" width="32px" heihgt="32px" src="/html.svg"/>&nbsp;
@@ -84,7 +85,7 @@ Front-End developer with <b>1.5 years</b> of experience. Writing <b>Front-End</b
 </span>
 
 
-## Contacts 📞
+## Контакты 📞
 
 <span>
 	<img align="top" src="/telegram.svg"/>&nbsp;
@@ -93,4 +94,8 @@ Front-End developer with <b>1.5 years</b> of experience. Writing <b>Front-End</b
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<a href="https://kursk.hh.ru/resume/4953b85aff0c8d3c420039ed1f596c44313751" target="_blank"><b>hh.ru</b></a>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<a href="https://docs.google.com/document/d/1imumoV98UF1Hv4Uap5xJm3uykaxCvarOzaSVnab4Cuc" target="_blank"><b>Резюме</b></a>
 </span>
