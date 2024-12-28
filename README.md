@@ -88,7 +88,7 @@ Frontend разработчик с <b>2 годами</b> опыта в e-commerc
 ## Контакты 📞
 
 <span>
-	<img align="top" src="/gmail.svg"/>&nbsp;
+	<img align="top" src="/gmail.png"/>&nbsp;
 	<b>nelubovvitaliy@gmail.com</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
