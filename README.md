@@ -92,7 +92,7 @@
 
 <span>
 	<img align="top" src="/gmail.png"/>&nbsp;
-	<b>nelubovvitaliy@gmail.com</b>
+	<b>vitaliyitfirst@yandex.com</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
