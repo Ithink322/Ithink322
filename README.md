@@ -89,14 +89,10 @@ Frontend-разработчик с коммерческим опытом в пр
 
 <span>
 	<img align="top" src="/gmail.png"/>&nbsp;
-	<b>vitaliyitfirst@yandex.com</b>
+	<b>vitaliyxcode@yandex.ru</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="/telegram.svg"/>&nbsp;
-	<a href="https://t.me/vitaliyitfirst" target="_blank"><b>Telegram</b></a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<a href="https://kursk.hh.ru/resume/517f5c5eff0fb08cf50039ed1f316f6d6a6b4c" target="_blank"><b>hh.ru</b></a>
+	<a href="https://t.me/vitaliyxcode" target="_blank"><b>Telegram</b></a>
 </span>
